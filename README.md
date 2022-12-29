@@ -1,0 +1,2 @@
+# registerforactivityresult_Java
+ startActivityForResult 棄用改為使用 registerforactivityresult
